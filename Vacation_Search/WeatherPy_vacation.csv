@@ -1,0 +1,56 @@
+ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+6,At-Bashi,KG,12.15,clear sky,41.1702,75.8106,Hostel At-Bashy
+14,Rocha,UY,12.85,overcast clouds,-34.4833,-54.3333,Hotel Arrarte
+16,Hasaki,JP,11.22,light rain,35.7333,140.8333,Inubosaki Kanko Hotel
+18,Muros,ES,10.09,clear sky,42.7762,-9.0603,Apartment Av. Castelao
+22,Mataura,NZ,11.67,clear sky,-46.1927,168.8643,Ellie's Villa
+39,Balclutha,NZ,11.28,clear sky,-46.2339,169.75,Hotel South Otago
+53,Constitucion,CL,11.5,broken clouds,-35.3333,-72.4167,Hotel Boutique Las Azucenas
+57,Castro,BR,11.5,overcast clouds,-24.7911,-50.0119,CHACARA BAILLY
+79,Mar Del Plata,AR,11.6,clear sky,-38.0023,-57.5575,Gran Hotel Mar del Plata
+98,Hermanus,ZA,11.56,overcast clouds,-34.4187,19.2345,Misty Waves Boutique Hotel
+101,Northam,GB,10.9,few clouds,51.0333,-4.2167,Durrant House Hotel
+107,Springbok,ZA,10.65,clear sky,-29.6643,17.8865,Undulata Country Lodge
+122,Lasa,IT,11.72,overcast clouds,46.6166,10.7002,Pension Feldgärtenhof
+126,Lebu,CL,11.14,overcast clouds,-37.6167,-73.65,Hostal Las Lilas
+161,Neosho,US,12.23,overcast clouds,36.869,-94.368,Best Western Big Spring Lodge
+182,Bethel,US,12.74,overcast clouds,41.3712,-73.414,Courtyard by Marriott Danbury
+185,Reconquista,AR,10.12,clear sky,-29.15,-59.65,Grand Hotel
+209,Izberbash,RU,11.03,clear sky,42.5696,47.8645,Ramina
+217,Lata,PT,11.61,clear sky,40.1629,-8.3327,Casa Maquia
+218,Oban,GB,10.21,overcast clouds,56.4127,-5.4706,Muthu Oban Hotel (Formerly Regent Hotel)
+257,Kaitangata,NZ,12.52,clear sky,-46.2817,169.8464,Kaitangata Motor Camp
+267,Tuatapere,NZ,12.97,overcast clouds,-46.1333,167.6833,Ron and Tony's Bed & Breakfast
+277,Nospelt,LU,12.23,clear sky,49.6753,6.0089,Hotel L'Empire
+292,Tateyama,JP,12.96,mist,34.9833,139.8667,Tateyama Seaside Hotel
+309,Lompoc,US,11.43,mist,34.6391,-120.4579,"Holiday Inn Express Lompoc, an IHG Hotel"
+314,Bantry,IE,10.99,overcast clouds,51.6833,-9.45,The Maritime Hotel
+322,Margate,GB,12.15,overcast clouds,51.3813,1.3862,Premier Inn Margate hotel
+335,Viedma,AR,12.85,clear sky,-40.8135,-62.9967,Hotel Cristal
+343,Fort-Shevchenko,KZ,11.65,clear sky,44.5086,50.263,Oasis hotel Bautino
+345,Whittlesea,ZA,12.52,overcast clouds,-32.1759,26.8244,Eddie's Nest B&B
+355,Ganzhou,CN,12.34,moderate rain,28.8184,115.4327,Zhanqian Grand Hotel
+362,Vallenar,CL,11.84,clear sky,-28.5708,-70.7581,Humacao Bed & Breakfast
+384,Rio Gallegos,AR,11.98,overcast clouds,-51.6226,-69.2181,Hotel Santa Cruz
+391,Xining,CN,12.1,overcast clouds,36.6167,101.7667,Super Leisure Hotel
+392,Lamar,US,12.58,clear sky,33.6668,-95.5836,Kings Inn Paris TX
+407,Hirado,JP,12.99,overcast clouds,33.3597,129.5531,Samson Hotel
+419,Zhaotong,CN,11.81,overcast clouds,27.3167,103.7167,Jingguan Home
+425,Melfi,IT,10.78,overcast clouds,40.9965,15.6514,HOTEL TERME DI RAPOLLA
+428,Nizhnevartovsk,RU,11.01,clear sky,60.9344,76.5531,Luch
+434,Namyslow,PL,10.74,overcast clouds,51.0759,17.7228,Hotel Zorza
+458,Te Anau,NZ,11.61,scattered clouds,-45.4167,167.7167,Kingsgate Hotel Te Anau
+481,Bridlington,GB,11.12,overcast clouds,54.0831,-0.1919,Expanse Bridlington Seafront Hotel
+482,Bartlesville,US,12.84,overcast clouds,36.7473,-95.9808,Hilton Garden Inn Bartlesville
+484,Berezovka,BY,10.4,overcast clouds,53.7214,25.4993,Nad Nemanom Usad'ba
+495,Boone,US,10.44,clear sky,39.0334,-92.3335,Cottonwoods RV Park
+544,Areosa,PT,12.78,clear sky,41.7178,-8.8571,Hotel Flôr de Sal
+555,Romny,UA,10.43,broken clouds,50.751,33.4747,Floriana
+558,Nombre De Dios,MX,12.85,overcast clouds,23.85,-104.2333,Uraján de Luna Hotel Boutique & SPA
+560,Karakol,KG,12.23,clear sky,42.4907,78.3936,"Gostinitsa ""Al'tamira"""
+566,Shitanjing,CN,11.87,broken clouds,39.2342,106.3439,Yingbin Hotel
+594,Starokostyantyniv,UA,12.81,overcast clouds,49.7576,27.2034,Lider
+597,Mragowo,PL,10.0,overcast clouds,53.8644,21.3051,Hotel Anek
+609,Warwick,US,10.4,overcast clouds,41.7001,-71.4162,Hampton Inn & Suites Providence/Warwick-Airport
+649,Oxford,GB,10.13,overcast clouds,51.7522,-1.256,Malmaison Oxford
+664,Palmer,US,11.8,clear sky,42.1584,-72.3287,Wedgewood Motel
